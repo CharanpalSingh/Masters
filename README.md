@@ -1,7 +1,7 @@
 Masters Thesis Repository
 
-This contails my final defense paper and relvent R code.\
-Note that the dataset used cannot be provided due to copyright and privacy of the particpants involved in the CHILD cohort study.\
+This Repository contains my final defense paper and all relevant R code.\
+Note that the dataset used cannot be provided due to copyright and for privacy of the particpants involved in the CHILD cohort study.\
 All code and findings are copyright of Charanpal Singh.
 
 Title: Modeling Childhood Wheezing in Small Areas in Manitoba
