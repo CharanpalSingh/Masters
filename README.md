@@ -1,6 +1,6 @@
 Masters Thesis Repository
 
-This Repository contains my final defense paper and all relevant R code.\
+This Repository contains my final masters thesis paper and all relevant R code.\
 Note that the dataset used cannot be provided due to copyright and for privacy of the particpants involved in the CHILD cohort study.\
 All code and findings are copyright of Charanpal Singh.
 
